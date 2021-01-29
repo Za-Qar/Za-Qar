@@ -1,7 +1,7 @@
 ### Hi there, I'm Zaid and it's nice that you're here 👋
 
 <!--
-**Za-Qar/Za-Qar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Za-Qar/Za-Qar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 A multidisciplinary full stack developer and software designer with experience working in agile tech teams and remotely to deliver real-world creative solutions. With a background in visual communication design, my skill set extends to digital, graphic and web design. I get geeky about creative things, will jump on a chance to hike, and in another life, I would travel the solar system starting with Saturn and its majestic rings. I am inspired by Mike from Creative Mints and his modern clean style.
 
@@ -38,4 +38,4 @@ And many more on my github repos
 Saturn's rings are actually made up of billions of particles of ice and rock, ranging in size from a grain of sand to the size of a house
 
 Hope to see you around :)
--->
+
