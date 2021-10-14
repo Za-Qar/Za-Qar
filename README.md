@@ -5,7 +5,7 @@
 
 A multidisciplinary full stack developer and software designer with experience working in agile tech teams and remotely to deliver real-world creative solutions. With a background in visual communication design, my skill set extends to digital, graphic and web design. I get geeky about creative things, will jump on a chance to hike, and in another life, I would travel the solar system starting with Saturn and its majestic rings. I am inspired by Mike from Creative Mints and his modern clean style.
 
-## 🔭 I’m currently working on a financial react native app and upgrading my [browser, Planaura](https://www.planaura.com), that aims to make our world a better place.
+## 🔭 I’m currently working on a financial react native app.
 
 ## 🌱 I’m currently learning
 * TypeScript
