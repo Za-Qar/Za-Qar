@@ -8,12 +8,10 @@ A multidisciplinary full stack developer and software designer with experience w
 ## 🔭 I’m currently working on a financial react native app.
 
 ## 🌱 I’m currently learning
-* TypeScript
-* React native
+* Lua
 * Mongo DB
-* Firebase DB
 * Redux
-* Chromium
+* Matlab
 
 ## ✒️ View my [design portfolio here](https://www.behance.net/zaidqarout)
 
