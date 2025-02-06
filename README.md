@@ -16,7 +16,6 @@ A multidisciplinary full stack developer and software designer with experience w
 ## ✒️ View my [design portfolio here](https://www.behance.net/zaidqarout)
 
 ## ✨ Previous projects
-* [Hedge Eagle Start-up](https://hedgeeagle.com), based in London
 * [Rain Makers](https://rain-makers.org), weather manipulation and rainfall enhancement company based in Germany
 * [Todos-Counters-Notes](https://todos-counter-notes.netlify.app), personal project of mine to practice, enjoy and explore React
 And many more on my github repos
